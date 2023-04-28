@@ -1,5 +1,5 @@
-# CS253_RaktArpan
-CS253 Course Project on Blood Bank Managament System RAKTARPAN
+# RaktArpan
+Course Project (group of 10) on Blood Bank Managament System RAKTARPAN
 
 ## Setup
 
